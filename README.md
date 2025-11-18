@@ -66,5 +66,17 @@ You can watch the demo here:
 
 Google drive : https://drive.google.com/file/d/1VJ8nNKlnkTOpGrToljfdCBcOwtKXr9i_/view?usp=drivesdk
 
+🔌 Extension Feature (AI Reply Button for Gmail)
+
+Along with the main application, we have also created a simple Google Chrome Extension that works as an AI Email Reply helper.
+This extension was built by following the basic Chrome extension folder structure and adding our custom popup UI and API call.
+
+The extension can be integrated with Gmail, where it works like an AI Reply Button.
+When the user clicks the button, the extension sends the entered topic to our backend and instantly generates a professional reply.
+
+This makes email writing faster and allows users to use our EWA system directly inside Gmail without opening the website.
+
+For this, there is an extension folder is there in main directory from where you can see extension building code.
+
 * AUTHOR
 Shravan Kumar Bishnoi - Aspiring Software Engineer
