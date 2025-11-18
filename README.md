@@ -37,7 +37,6 @@ Endpoint
 
 POST /api/email/generate
 
-* 
 Body:
 {
 "topic": "Requesting for a meeting schedule"
